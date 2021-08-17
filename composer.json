@@ -1,5 +1,5 @@
 {
-    "name": "beachcasts/airtable-sdk-php",
+    "name": "geeh/airtable-sdk-php",
     "type": "library",
     "description": "Flexible PHP SDK for the Airtable API.",
     "keywords": [
